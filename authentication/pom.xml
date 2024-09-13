@@ -162,6 +162,8 @@
 		<objenesis.version>3.1</objenesis.version>
 
 		<springdoc.version>1.5.10</springdoc.version>
+                <sonar.organization>iamdagim</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		
 	</properties>
 
